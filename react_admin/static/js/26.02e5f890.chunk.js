@@ -1,0 +1,1 @@
+(this["webpackJsonpdatta-able-rv18.0.4"]=this["webpackJsonpdatta-able-rv18.0.4"]||[]).push([[26],{144:function(t,a,e){"use strict";e.r(a);var n=e(0),r=e.n(n);a.default=function(){return r.a.createElement("div",null,"ProductDetails fgvbtfgbfg")}}}]);
