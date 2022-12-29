@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'gilroy-extrabold';
+  src: url('../../fonts/gilroy/gilroy-extrabold-webfont.txt') format('woff2'),
+       url('../../fonts/gilroy/gilroy-extrabold-webfont-1.txt') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
